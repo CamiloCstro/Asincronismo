@@ -1,0 +1,24 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamiloCstro/Asincronismo.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Camilo Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamiloCstro/Asincronismo/issues"
+  },
+  "homepage": "https://github.com/CamiloCstro/Asincronismo#readme"
+}
